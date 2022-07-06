@@ -100,3 +100,59 @@ input[type=text] {
 #education{
     background-color: #f7ae123b;
 }
+
+.half-width{
+    width: 50%;
+    margin: 50px 20px 50px 20px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 5px;
+    height: 100%;
+}
+.half-width p{
+    margin-bottom: 30px;
+}
+
+.subscript{
+    padding:10% 15%;
+    background-color: #e7a82136;
+    position: center;
+}
+input[type=email] {
+    background-color: rgba(196, 196, 196, 0.788);
+    color: #e7a82136;
+    padding: 15px 30px;
+    border: 0;
+    margin-left: 15%;
+    border-radius: 5px 0 0 5px;
+}
+.btn{
+    background-color: #FF5959;
+    color: white;
+    font-style: none;
+    padding: 15px 30px;
+    border-radius: 0 5px 5px 0;
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: 15%;
+}
+
+footer{
+    background-color:rgb(9, 6, 15);
+    margin-top: 100px;
+}
+.footer-dsign{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.footer-dsign h2{
+    color: #FF5959;
+    font-family: cursive;
+    font-size: 30px;
+}
+.footer-dsign p{
+    color: rgb(180, 180, 255);
+    font-size: 12px;
+}
